@@ -8055,7 +8055,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://m.zkvivi.com/app/com.js$s@function qijixs_*(){*}@@
 |http://mvideo.duokanbox.com$s@"ad_duration":"??",@"ad_duration":"0",@
 |http://pan.789xz.com/down$s@ style="display:none*"@@
-|http://pan.baidu.com/share/$f@s@adapt=pc@adapt=wap@
+|http://pan.baidu.com/share/$r@adapt=pc@adapt=wap@
 |http://pianyuan.net/$s@<script src=?http://js3743.chadegongxiao.com*</script>@@
 |http://qingse.one/view/$s@<script src="https://caches.space/bootstrap3/js/bootstrap.js"></script>@@
 |http://rm.biquge5200.com/main.js^$s@function qijixs_dingbu()*function xcy()@function xxxx()@
@@ -8208,7 +8208,6 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 ||www.94pan.com$s@<script src="http://js.csad.cc:99/page/*"></script>@@
 ||xiumm.cc/statics/js/cFunc$s@function cpvFunc() {*function getCookie(name)@function getCookie(name)@
 ||xiumm.cc/statics/js/common.js$s@function advFunc@@
-||youku.com/adv^$f@s@position=\d+@position=0@
 ||zh.thegreatdaily.com$s@setTimeout(function()@@
 ||zhangyoubao.com/video/$s@,1000);@,0);@
 ||zhaodaoshu.com$s@<script src=?http://js2699.yongkang6.com:*></script>@@
